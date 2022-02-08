@@ -1,5 +1,6 @@
 # tic-tac-toe-cli-typescript
 
+values are from (0-8) not (1-9)
 steps to follow - 
 
 to run locally - 
